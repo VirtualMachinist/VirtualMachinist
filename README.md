@@ -1,22 +1,26 @@
 # VirtualMachinist
 
-AI platform · SRE / DevSecOps · Rust · TypeScript · Nix
+Builder account for [Hedronite](https://github.com/Hedronite).
 
-Builder account for **[Hedronite](https://github.com/Hedronite)** — agent-native platform tooling dogfooded daily and hardened for scale.
+**Canonical products live under the org** — not here:
 
-## Start here
-
-**Organization:** [github.com/Hedronite](https://github.com/Hedronite) · **Site:** [hedronite.com](https://hedronite.com)
-
-## Core products (source of truth)
-
-| Product | One-liner |
+| Product | Repo |
 |---|---|
-| **[Omahedron](https://github.com/VirtualMachinist/Omahedron)** | Trailing-stable NixOS port of Omarchy (flakes) |
-| **[geode](https://github.com/VirtualMachinist/geode)** | File custody for humans and agents (GDE1 vaults) |
-| **[facet](https://github.com/VirtualMachinist/facet)** | Local-first API client (CLI/TUI) |
-| **[hedrondb](https://github.com/VirtualMachinist/hedrondb)** | Local-first intent/state reconcile for agents |
-| **[lapis-lattice](https://github.com/VirtualMachinist/lapis-lattice)** | Vault search + RAG for agentic workflows |
-| **[hedronetes-h3s](https://github.com/VirtualMachinist/hedronetes-h3s)** | Agent-native orchestration node for K8s/k3s |
+| Geode | https://github.com/Hedronite/geode |
+| Facet | https://github.com/Hedronite/facet |
+| HedronDB | https://github.com/Hedronite/hedrondb |
+| Lapis Lattice | https://github.com/Hedronite/lapis-lattice |
+| Hedronetes h3s | https://github.com/Hedronite/hedronetes-h3s |
+| Hedronos | https://github.com/Hedronite/hedronos |
+| Fullstack Lab | https://github.com/Hedronite/fullstack-lab |
 
-Recruiters and collaborators: prefer the [Hedronite org](https://github.com/Hedronite) for the public face; repositories above remain the working source until org migration completes.
+Homebrew: https://github.com/Hedronite/homebrew-tap · Site: https://hedronite.com
+
+## Still on this account
+
+- **[Omahedron](https://github.com/VirtualMachinist/Omahedron)** — Omarchy **theme + plugin pack** (Facet, Geode, Lapis, Hedronos/fullstack-lab). Not an OS fork; prefer stock Omarchy + this pack.
+- **[omapi-overlay](https://github.com/VirtualMachinist/omapi-overlay)** — stock omp + overlay flake
+- **[pendant](https://github.com/VirtualMachinist/pendant)** — mobile thin client spike
+- **[Aeon](https://github.com/VirtualMachinist/Aeon)** — pet 2D fighter
+
+Transferred repos redirect from old `VirtualMachinist/<name>` URLs to `Hedronite/<name>`.
