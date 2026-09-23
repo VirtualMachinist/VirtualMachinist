@@ -1,8 +1,8 @@
 # VirtualMachinist
 
-Builder account for [Hedronite](https://github.com/Hedronite).
+Developer account for [Hedronite](https://github.com/Hedronite).
 
-**Canonical products live under the org** — not here:
+**Product Portfolio**:
 
 | Product | Repo |
 |---|---|
@@ -16,11 +16,7 @@ Builder account for [Hedronite](https://github.com/Hedronite).
 
 Homebrew: https://github.com/Hedronite/homebrew-tap · Site: https://hedronite.com
 
-## Still on this account
+## Personal Projects
 
 - **[Omahedron](https://github.com/VirtualMachinist/Omahedron)** — Omarchy **theme + plugin pack** (Facet, Geode, Lapis, Hedronos/fullstack-lab). Not an OS fork; prefer stock Omarchy + this pack.
-- **[omapi-overlay](https://github.com/VirtualMachinist/omapi-overlay)** — stock omp + overlay flake
-- **[pendant](https://github.com/VirtualMachinist/pendant)** — mobile thin client spike
 - **[Aeon](https://github.com/VirtualMachinist/Aeon)** — arcade style 2D fighter
-
-Transferred repos redirect from old `VirtualMachinist/<name>` URLs to `Hedronite/<name>`.
