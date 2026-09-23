@@ -21,6 +21,6 @@ Homebrew: https://github.com/Hedronite/homebrew-tap · Site: https://hedronite.c
 - **[Omahedron](https://github.com/VirtualMachinist/Omahedron)** — Omarchy **theme + plugin pack** (Facet, Geode, Lapis, Hedronos/fullstack-lab). Not an OS fork; prefer stock Omarchy + this pack.
 - **[omapi-overlay](https://github.com/VirtualMachinist/omapi-overlay)** — stock omp + overlay flake
 - **[pendant](https://github.com/VirtualMachinist/pendant)** — mobile thin client spike
-- **[Aeon](https://github.com/VirtualMachinist/Aeon)** — pet 2D fighter
+- **[Aeon](https://github.com/VirtualMachinist/Aeon)** — arcade style 2D fighter
 
 Transferred repos redirect from old `VirtualMachinist/<name>` URLs to `Hedronite/<name>`.
