@@ -18,5 +18,5 @@ Homebrew: https://github.com/Hedronite/homebrew-tap · Site: https://hedronite.c
 
 ## Personal Projects
 
-- **[Omahedron](https://github.com/VirtualMachinist/Omahedron)** — Omarchy **theme + plugin pack** (Facet, Geode, Lapis, Hedronos/fullstack-lab). Not an OS fork; prefer stock Omarchy + this pack.
+- **[Omahedron](https://github.com/VirtualMachinist/Omahedron)** — Omarchy **theme + plugin pack**.
 - **[Aeon](https://github.com/VirtualMachinist/Aeon)** — arcade style 2D fighter
