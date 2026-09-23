@@ -11,7 +11,7 @@ Builder account for [Hedronite](https://github.com/Hedronite).
 | HedronDB | https://github.com/Hedronite/hedrondb |
 | Lapis Lattice | https://github.com/Hedronite/lapis-lattice |
 | Hedronetes h3s | https://github.com/Hedronite/hedronetes-h3s |
-| Hedronos | https://github.com/Hedronite/hedronos |
+| HedronOS | https://github.com/Hedronite/hedronos |
 | Fullstack Lab | https://github.com/Hedronite/fullstack-lab |
 
 Homebrew: https://github.com/Hedronite/homebrew-tap · Site: https://hedronite.com
