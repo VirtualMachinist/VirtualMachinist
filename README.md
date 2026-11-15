@@ -1,6 +1,6 @@
 # VirtualMachinist
 
-Systems Architect of [Hedronite](https://github.com/Hedronite). This account is the personal workshop; the platform lives on the org.
+Personal account of [Hedronite](https://github.com/Hedronite).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hedronite/.github/main/profile/assets/hedronite-lockup-stylized.png" alt="Hedronite stylized mark and wordmark" width="720" />
